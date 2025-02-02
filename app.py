@@ -8,7 +8,7 @@ st.markdown(
     """
     <style>
     body {
-        background-color: white;
+        background-color:white;
     }
     .stApp {
         background-color: #085187;
@@ -16,8 +16,7 @@ st.markdown(
         border-radius: 10px;
     }
     .stSidebar { 
-        background-color: #085187
-; 
+        background-color: #085187; 
     }
     h1, h2, h3, h4, h5, h6 {
         color: white;
