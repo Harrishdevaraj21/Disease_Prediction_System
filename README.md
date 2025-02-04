@@ -117,9 +117,8 @@ Follow these steps to set up and run the project locally:
 
 ## 📸 Screenshots
 ![Screenshot 2025-02-04 154132](https://github.com/user-attachments/assets/745c587c-b77a-4b2a-a612-ca0964ca75a7)
-![Screenshot 2025-02-04 154219](https://github.com/user-attachments/assets/5bbdb7b7-b116-4ea5-b5da-1c333cf828d0)
 ![Screenshot 2025-02-04 154154](https://github.com/user-attachments/assets/75cc4431-ca76-4f20-bd8e-b45c2c3d4a14)
-
+![Screenshot 2025-02-04 154219](https://github.com/user-attachments/assets/5bbdb7b7-b116-4ea5-b5da-1c333cf828d0)
 
 
 ## 🤝 Contributing
